@@ -1,0 +1,11 @@
+C:\Users\benjamin_fitzpatrick\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp2.1\CompositeDesignPattern.deps.json
+C:\Users\benjamin_fitzpatrick\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp2.1\CompositeDesignPattern.runtimeconfig.json
+C:\Users\benjamin_fitzpatrick\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp2.1\CompositeDesignPattern.runtimeconfig.dev.json
+C:\Users\benjamin_fitzpatrick\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp2.1\CompositeDesignPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp2.1\CompositeDesignPattern.pdb
+C:\Users\benjamin_fitzpatrick\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.1\CompositeDesignPattern.csprojAssemblyReference.cache
+C:\Users\benjamin_fitzpatrick\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.1\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.1\CompositeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.1\CompositeDesignPattern.AssemblyInfo.cs
+C:\Users\benjamin_fitzpatrick\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.1\CompositeDesignPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.1\CompositeDesignPattern.pdb
